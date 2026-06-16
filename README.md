@@ -22,7 +22,7 @@ The Human Following Robot is an autonomous robotic system designed to track and 
 
 ## Hardware Components
 
-- Arduino Nano
+- Arduino Uno
 - Ultrasonic Sensors
 - Motor Driver
 - DC Motors
